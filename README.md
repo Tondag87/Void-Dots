@@ -29,13 +29,13 @@ cd into downloaded_directory/Void-Dots
 # _____________________________________
 # Lets Move Your Old Configs
 cd "DOWNLOAD_LOCATION/NordBSD"
-    mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckless
-    mv ~/.config/dunst ~/.config/dunst-backup && cp -r .config/dunst/ ~/.config/dunst
-    mv ~/.config/rofi ~/.config/rofi-backup && cp -r .config/rofi/ ~/.config
-    mv ~/.config/nvim ~/.config/nvim-backup && cp -r .config/nvim/ ~/.config/nvim
-    mv ~/.config/neofetch ~/.config/neofetch-backup && cp -r .config/neofetch/ ~/.config/neofetch
-    mkdir ~/.dwm && cp -r .dwm ~/
-    mkdir ~/.themes && cp -r .themes ~/
+mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckles 
+mv ~/.config/dunst ~/.config/dunst-backup && cp -r .config/dunst/ ~/.config/dunst
+mv ~/.config/rofi ~/.config/rofi-backup && cp -r .config/rofi/ ~/.config
+mv ~/.config/nvim ~/.config/nvim-backup && cp -r .config/nvim/ ~/.config/nvim
+mv ~/.config/neofetch ~/.config/neofetch-backup && cp -r .config/neofetch/ ~/.config/neofetch
+mkdir ~/.dwm && cp -r .dwm ~/
+mkdir ~/.themes && cp -r .themes ~/
 # _____________________________________
 # Lets Get the Wallpaper, Volume Notification, Ublock Origin Config, Stylus and Firefox Color Setup
 cp -r Accessories ~/Downloads
