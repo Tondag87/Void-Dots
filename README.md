@@ -45,9 +45,13 @@ mkdir ~/.dwm && cp -r .dwm ~/
 mkdir ~/.themes && cp -r .themes ~/
 # _________________________________
 # Lets Get the Wallpaper, Volume Notification, Ublock Origin Config, Stylus and Firefox Color Setup
+
 cp -r Accessories ~/Downloads
+
 mv ~/Downloads/Accessories/everforest-3.png ~/Downloads
+
 cp volnotification ~/
+
 # Firefox Setup (Stylus and Firefox Color)
  Search the Firefox Extensions for Stylus and Install
         After that left click the extension and click on settings 
