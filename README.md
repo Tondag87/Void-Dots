@@ -19,6 +19,7 @@ What you need
   * Firefox
   * Feh
   * Picom-Ibhagwan
+  * Papirus-Icons
 # -- I recommend ZSH, Oh-my-zsh and Powerlevel10k for the full cmdline look but its not neede --
 
 # How do I Install?
