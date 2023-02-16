@@ -15,6 +15,8 @@ What you need
   * LXAppearance
   * Rofi (For PowerMenu)
   * Neovim
+  * Dunst
+  * Firefox
   * Feh
   * Picom-Ibhagwan
 # -- I recommend ZSH, Oh-my-zsh and Powerlevel10k for the full cmdline look but its not neede --
@@ -24,6 +26,26 @@ git clone this repo https://github.com/tondag87/Void-Dots.git
 cd into downloaded_directory/Void-Dots
 # _____________________________________
 # Lets Move Your Old Configs
-
+cd "DOWNLOAD_LOCATION/NordBSD"
+    mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckless
+    mv ~/.config/dunst ~/.config/dunst-backup && cp -r .config/dunst/ ~/.config/dunst
+    mv ~/.config/rofi ~/.config/rofi-backup && cp -r .config/rofi/ ~/.config
+    mv ~/.config/nvim ~/.config/nvim-backup && cp -r .config/nvim/ ~/.config/nvim
+    mv ~/.config/neofetch ~/.config/neofetch-backup && cp -r .config/neofetch/ ~/.config/neofetch
+    mkdir ~/.dwm && cp -r .dwm ~/
+    mkdir ~/.themes && cp -r .themes ~/
+# _____________________________________
+# Lets Get the Wallpaper, Volume Notification, Ublock Origin Config, Stylus and Firefox Color Setup
+cp -r Accessories ~/Downloads
+mv ~/Downloads/Accessories/everforest-3.png ~/Downloads
+cp volnotification ~/
+# Firefox Setup (Stylus and Firefox Color)
+ Search the Firefox Extensions for Stylus and Install
+        After that left click the extension and click on settings 
+        Look on the left hand side and under backup select import 
+        Then find stylus-2023-02-16.json and select it, EverForest Themes should be applied
+        Websites include Github, StartPage, Youtube and Reddit
+ Search the Firefox Extensions for Firefox Color and Install
+        After that go to about:debugging 
 
   
