@@ -1,0 +1,114 @@
+! 2022-12-11 https://www.google.com
+www.google.com##.Ne6nSd.n1xJcf.o3j99
+www.google.com##.SSwjIe.KxwPGc
+www.google.com###_1ZqUY-fIN87YytMP3Oqq4A0_7
+www.google.com##.gb_Ff.gb_l.gb_ld.gb_F
+www.google.com##.gb_Ff.gb_l.gb_qg.gb_ld.gb_b
+www.google.com##.gb_Pd.gb_3a.gb_1d
+www.google.com###_1ZqUY-fIN87YytMP3Oqq4A0_1
+www.google.com##.Ib7Efc.logo
+www.google.com##.nDcEnd
+www.google.com##.M2vV3.ACRAdd
+www.google.com###_O5uUY4WJKqCTytMPutmQ4Ao_7
+www.google.com###_O5uUY4WJKqCTytMPutmQ4Ao_1
+www.google.com##.c58wS
+www.google.com###_YZuUY6TRJqPZytMPrL-W-A0_1
+www.google.com###hdtb-tls
+www.google.com##.b2hzT.fbar
+www.google.com##div.fbar:nth-of-type(3)
+||www.google.com/images/nav_logo321.webp$image
+||www.google.com/images/nav_logo321.webp$image
+
+! 2022-12-11 https://www.youtube.com
+www.youtube.com###end > .ytd-masthead.style-scope
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape
+www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com###top-level-buttons-computed > ytd-button-renderer.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###top-level-buttons-computed > ytd-button-renderer.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###menu > .ytd-video-primary-info-renderer.style-scope
+www.youtube.com##.size-default.style-text.ytd-subscription-notification-toggle-button-renderer.style-scope
+www.youtube.com###header > .ytd-item-section-renderer.style-scope
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+
+! 2022-12-11 https://mail.google.com
+mail.google.com##.dIH7rb.Yb
+mail.google.com##.t6.gb_dd.gb_we.gb_ye
+mail.google.com##.FH
+mail.google.com###gbwa > .gb_Ef > .gb_d
+mail.google.com##.J-JN-I-Kq.J-JN-I.amH.J-J5-Ji
+mail.google.com##.J-J5-Ji.ar5 > .Di
+mail.google.com##div.J-J5-Ji.G-Ni:nth-of-type(7)
+mail.google.com##.aT5-aOt-I-Jp.brC-dA-I.aT5-aOt-I > .aT5-aOt-I-JX-Jw
+mail.google.com##.it.nn.bAw.nH
+mail.google.com##.Xr.bSyoAf.ao4.Xa
+mail.google.com##.Xr.bSyoAf.aIt.Xa
+mail.google.com##.adZ.XT.ZR.Xa
+mail.google.com##.gb_Ff.gb_l.gb_qg.gb_ld.gb_b
+mail.google.com##.aKe-aLe.aAy
+mail.google.com##.aJi-aLe.aAy
+mail.google.com##.gb_xf > svg
+mail.google.com##.gb_me.gb_zc.gb_oe
+mail.google.com##.FgKVne.aAw
+mail.google.com###\:ly > .aHS-bnr.aEc.aY7xie.TN
+mail.google.com###\:m1 > .aHS-bnr.aEc.aY7xie.TN
+mail.google.com###\:m0 > .aHS-bnr.aEc.aY7xie.TN
+mail.google.com###\:le
+mail.google.com###\:lt > .aHS-bnr.aEc.aY7xie.TN
+mail.google.com###\:lu > .aHS-bnr.aik.aY7xie.TN
+mail.google.com###\:lv > .aHS-bnr.aik.aY7xie.TN
+mail.google.com###\:lx > .aHS-bnr.aik.aY7xie.TN
+mail.google.com##.aS3.TO
+mail.google.com##.Q7.CL
+mail.google.com##.Wj.CL
+mail.google.com###\:ld > .ait > .J-J5-Ji.G-asx
+mail.google.com##.l6
+mail.google.com##.ma
+mail.google.com##.pfiaof.l2
+
+! 2022-12-11 https://www.amazon.com
+www.amazon.com##.icp-link-style-2.nav-a-2.nav-a
+www.amazon.com##.nav-sprite-v1.navLeftFooter
+www.amazon.com###nav-link-amazonprime
+www.amazon.com##.nav-progressive-search-dropdown.nav-progressive-attrubute.searchSelect.nav-search-dropdown
+www.amazon.com##.nav-search-facade
+www.amazon.com##.nav-sprite.nav-search-scope
+www.amazon.com###glow-ingress-block > .nav-progressive-content.nav-line-1
+www.amazon.com##.nav-progressive-content.nav-line-2
+www.amazon.com##.nav-progressive-attribute.a-declarative.a-popover-trigger.nav-a-2.nav-a
+www.amazon.com###nav-belt > .nav-left
+www.amazon.com###hmenu-customer-profile-left
+www.amazon.com###hmenu-customer-name > b
+www.amazon.com###hmenu-customer-profile
+www.amazon.com###hmenu-icp-language
+www.amazon.com##.nav-line-1-container > .nav-progressive-content.nav-line-1
+www.amazon.com###nav-orders
+
+! 2023-01-30 https://www.youtube.com
+www.youtube.com###copyright
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(4)
+www.youtube.com###section-items
+www.youtube.com##ytd-guide-collapsible-section-entry-renderer.ytd-guide-section-renderer.style-scope
+www.youtube.com##.ytd-watch-metadata.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com###button-shape > .yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###button-shape > .yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com###button-shape > .yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+www.youtube.com###button-shape > .yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > .yt-spec-button-shape-next__icon > yt-icon
+www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+www.youtube.com##.yt-spec-button-shape-next--icon-leading-trailing.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.yt-spec-button-shape-next--icon-leading-trailing.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com##.yt-spec-button-shape-next--icon-leading-trailing.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+www.youtube.com##.yt-spec-button-shape-next--icon-leading-trailing.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > .yt-spec-button-shape-next__icon > yt-icon
+www.youtube.com##.yt-spec-button-shape-next--icon-leading-trailing.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+

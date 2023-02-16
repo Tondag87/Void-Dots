@@ -1,0 +1,56 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Everforest Darker",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(41, 49, 54)",
+      "toolbar_text": "rgb(211, 198, 170)",
+      "frame": "rgb(41, 49, 54)",
+      "tab_background_text": "rgb(211, 198, 170)",
+      "toolbar_field": "rgb(51, 60, 67)",
+      "toolbar_field_text": "rgb(211, 198, 170)",
+      "tab_line": "rgb(211, 198, 170)",
+      "popup": "rgb(41, 49, 54)",
+      "popup_text": "rgb(211, 198, 170)",
+      "button_background_active": "rgb(211, 198, 170)",
+      "button_background_hover": "rgb(211, 198, 170)",
+      "frame_inactive": "rgb(41, 49, 54)",
+      "icons_attention": "rgb(211, 198, 170)",
+      "icons": "rgb(211, 198, 170)",
+      "ntp_background": "rgb(41, 49, 54)",
+      "ntp_text": "rgb(211, 198, 170)",
+      "popup_border": "rgb(41, 49, 54)",
+      "popup_highlight_text": "rgb(211, 198, 170)",
+      "popup_highlight": "rgb(211, 198, 170)",
+      "sidebar_border": "rgb(211, 198, 170)",
+      "sidebar_highlight_text": "rgb(211, 198, 170)",
+      "sidebar_highlight": "rgb(41, 49, 54)",
+      "sidebar_text": "rgb(211, 198, 170)",
+      "sidebar": "rgb(51, 60, 67)",
+      "tab_background_separator": "rgb(211, 198, 170)",
+      "tab_loading": "rgb(41, 49, 54)",
+      "tab_selected": "rgb(51, 60, 67)",
+      "tab_text": "rgb(211, 198, 170)",
+      "toolbar_bottom_separator": "rgb(211, 198, 170)",
+      "toolbar_field_border_focus": "rgb(211, 198, 170)",
+      "toolbar_field_border": "rgb(211, 198, 170)",
+      "toolbar_field_highlight_text": "rgb(211, 198, 170)",
+      "toolbar_field_separator": "rgb(211, 198, 170)",
+      "toolbar_top_separator": "rgb(211, 198, 170)"
+    }
+  }
+}
