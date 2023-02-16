@@ -55,9 +55,13 @@ cp volnotification ~/
 
 # Firefox Setup (Stylus and Firefox Color)
  Search the Firefox Extensions for Stylus and Install
+ 
         After that left click the extension and click on settings 
+	
         Look on the left hand side and under backup select import 
+	
         Then find stylus-2023-02-16.json and select it, EverForest Themes should be applied
+	
         Websites include Github, StartPage, Youtube and Reddit
         
 				
