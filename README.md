@@ -21,7 +21,7 @@ What you need
   * Feh
   * Picom-Ibhagwan
   * Papirus-Icons
-# -- I recommend ZSH, Oh-my-zsh and Powerlevel10k for the full cmdline look but its not neede --
+# -- I recommend ZSH, Oh-my-zsh and Powerlevel10k for the full cmdline look but its not needed --
 
 # How do I Install?
 git clone this repo https://github.com/tondag87/Void-Dots.git
