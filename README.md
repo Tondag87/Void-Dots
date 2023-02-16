@@ -24,17 +24,23 @@ What you need
 # -- I recommend ZSH, Oh-my-zsh and Powerlevel10k for the full cmdline look but its not needed --
 
 # How do I Install?
-git clone this repo https://github.com/tondag87/Void-Dots.git
+Git clone this repo https://github.com/tondag87/Void-Dots.git
 cd into downloaded_directory/Void-Dots
 # _________________________________
 # Lets Move Your Old Configs
 cd "DOWNLOAD_LOCATION/NordBSD"
-mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckles 
+mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckless
+
 mv ~/.config/dunst ~/.config/dunst-backup && cp -r .config/dunst/ ~/.config/dunst
+
 mv ~/.config/rofi ~/.config/rofi-backup && cp -r .config/rofi/ ~/.config
+
 mv ~/.config/nvim ~/.config/nvim-backup && cp -r .config/nvim/ ~/.config/nvim
+
 mv ~/.config/neofetch ~/.config/neofetch-backup && cp -r .config/neofetch/ ~/.config/neofetch
+
 mkdir ~/.dwm && cp -r .dwm ~/
+
 mkdir ~/.themes && cp -r .themes ~/
 # _________________________________
 # Lets Get the Wallpaper, Volume Notification, Ublock Origin Config, Stylus and Firefox Color Setup
