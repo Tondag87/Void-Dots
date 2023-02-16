@@ -25,6 +25,7 @@ What you need
 
 # How do I Install?
 Git clone this repo https://github.com/tondag87/Void-Dots.git
+
 cd into downloaded_directory/Void-Dots
 # _________________________________
 # Lets Move Your Old Configs
