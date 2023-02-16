@@ -1,5 +1,6 @@
 # Void-Dots
 My First DWM Rice on Void Linux
+
 ![2023-02-16-071045_1920x1080_scrot](https://user-images.githubusercontent.com/89696594/219378571-1ff855f0-b88e-4ad1-a087-edbce0e5e6d5.png)
 
 ![2023-02-16-071320_1920x1080_scrot](https://user-images.githubusercontent.com/89696594/219378717-d468c757-14e0-4a3a-ba43-8390d4f49510.png)
