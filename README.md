@@ -29,6 +29,7 @@ cd into downloaded_directory/Void-Dots
 # _________________________________
 # Lets Move Your Old Configs
 cd "DOWNLOAD_LOCATION/NordBSD"
+
 mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckless
 
 mv ~/.config/dunst ~/.config/dunst-backup && cp -r .config/dunst/ ~/.config/dunst
