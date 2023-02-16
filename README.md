@@ -26,7 +26,7 @@ What you need
 # How do I Install?
 git clone this repo https://github.com/tondag87/Void-Dots.git
 cd into downloaded_directory/Void-Dots
-# _____________________________________
+# _________________________________
 # Lets Move Your Old Configs
 cd "DOWNLOAD_LOCATION/NordBSD"
 mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckles 
@@ -36,7 +36,7 @@ mv ~/.config/nvim ~/.config/nvim-backup && cp -r .config/nvim/ ~/.config/nvim
 mv ~/.config/neofetch ~/.config/neofetch-backup && cp -r .config/neofetch/ ~/.config/neofetch
 mkdir ~/.dwm && cp -r .dwm ~/
 mkdir ~/.themes && cp -r .themes ~/
-# _____________________________________
+# _________________________________
 # Lets Get the Wallpaper, Volume Notification, Ublock Origin Config, Stylus and Firefox Color Setup
 cp -r Accessories ~/Downloads
 mv ~/Downloads/Accessories/everforest-3.png ~/Downloads
