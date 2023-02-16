@@ -62,6 +62,7 @@ cp volnotification ~/
 				
  Search the Firefox Extensions for Firefox Color and Install
         Then Follow the Pictures for Help on Themeing as Firefox Color Doesn't Allow for Importing (Colors are #293136, #D3C6AA and #333C43)
+	
 ![2023-02-16-091936_1920x1080_scrot](https://user-images.githubusercontent.com/89696594/219389991-349e23c5-b247-4c70-8882-825ccb03c07e.png)
 ![2023-02-16-091938_1920x1080_scrot](https://user-images.githubusercontent.com/89696594/219390093-5df6b899-9b0f-4ee6-a541-8869198d7dbd.png)
 ![2023-02-16-091940_1920x1080_scrot](https://user-images.githubusercontent.com/89696594/219390137-1efcdbf4-efef-47f6-a175-af1e58b9ff15.png)
