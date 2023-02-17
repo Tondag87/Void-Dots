@@ -29,7 +29,7 @@ Git clone this repo https://github.com/tondag87/Void-Dots.git
 cd into downloaded_directory/Void-Dots
 # _________________________________
 # Lets Move Your Old Configs
-cd "DOWNLOAD_LOCATION/NordBSD"
+cd "DOWNLOAD_LOCATION/Void-Dots"
 
 mv ~/.config/suckless ~/.config/suckless-backup && cp -r .config/suckless/ ~/.config/suckless
 
